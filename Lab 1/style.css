@@ -1,0 +1,41 @@
+li {
+    list-style-type: square;
+}
+
+#cena {
+    color: red;
+    font-weight: bold;
+}
+
+.wstęp {
+    font-style: italic;
+}
+
+td img {
+    border-style: solid;
+    border-color: blue;
+}
+
+td img:hover {
+    border-style: solid;
+    border-color: red;
+}
+
+h1 + h2 {
+    letter-spacing: 5px;
+}
+
+[colspan = "2"] {
+    font-size: small; 
+}
+
+p + p {
+    color: gray;
+}
+
+body {
+    background-image: url(https://i.imgur.com/vnUo2RH.png); background-repeat: repeat-x
+}
+
+h1 { color: blue }
+h1 { color: green }
