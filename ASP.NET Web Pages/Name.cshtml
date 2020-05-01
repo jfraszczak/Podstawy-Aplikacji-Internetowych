@@ -1,0 +1,32 @@
+﻿@{
+    Layout = null;
+    string name = "Robert Paulson";
+
+
+    if (!string.IsNullOrEmpty(Request["name"]))
+    {
+        name = Request["name"];
+    }
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+
+        <ul>
+            @for (int i = 0; i < 10; i++)
+            {
+                <li>My name is @name</li>
+            }
+        </ul>
+    
+    </div>
+</body>
+</html>
