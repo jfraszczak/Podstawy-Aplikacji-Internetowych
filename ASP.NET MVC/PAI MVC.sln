@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAI MVC", "PAI MVC\PAI MVC.csproj", "{9C0F623C-83D3-42F8-A369-00F7FACDCF53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0F623C-83D3-42F8-A369-00F7FACDCF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0F623C-83D3-42F8-A369-00F7FACDCF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0F623C-83D3-42F8-A369-00F7FACDCF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0F623C-83D3-42F8-A369-00F7FACDCF53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9FBBFA-7EA6-4885-BF0C-36C2CDC18E67}
+	EndGlobalSection
+EndGlobal
